@@ -1,5 +1,5 @@
 # curl-server
-This is a simple Express-based image caching server that downloads and serves images from a given URL. It caches images locally and allows automatic cleanup of older files.
+This is a simple Express-based image curl server that downloads and serves images from a given URL. It caches images locally and allows automatic cleanup of older files.
 
 ## Setup Instructions
 
